@@ -1,2 +1,2 @@
 # remoteTest1
-リモートリポジトリのテスト
+git test
